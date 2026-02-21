@@ -1,0 +1,6 @@
+@PatentsViewAPI_HostAddress = http://localhost:5070
+
+GET {{PatentsViewAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
